@@ -1,0 +1,44 @@
+.app-container {
+  display: block;
+  top: 40%;
+  border-radius: 10px;
+
+}
+
+.input-add {
+  width: 300px;
+  height: 45px;
+  margin-right: 10px;
+
+}
+
+.edit-button {
+  height: 40px;
+  margin-left: 5px;
+  border-radius:10px;
+}
+
+button {
+  background-color: rgba(42, 180, 185, 0.481) !important;
+  color: white;
+}
+.centerContainer {
+  background: rgb(255, 163, 178);
+  background: radial-gradient(
+    circle,
+    rgba(255, 163, 178, 1) 0%,
+    rgba(255, 239, 224, 1) 100%
+  );
+
+  color: white;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-repeat: no-repeat;
+  border-radius:10px;
+}
+#button-addon2 {
+  color: white;
+  border-radius:10px;
+}
